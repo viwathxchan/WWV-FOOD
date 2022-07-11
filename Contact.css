@@ -1,0 +1,16 @@
+/*Selector {
+	Property:  value;
+}*/
+
+body {
+	font-family: 'Lato', sans-serif;
+	background-color: #32504D; color: white;
+	text-align: center;
+	text-rendering: optimizeLegibility;
+}
+
+
+textarea {
+	width: 350px;
+	height: 130px;
+}
