@@ -1,2 +1,2 @@
 # WWV-Food
-World Wide Vegan Food
+Worldwide Vegan Food
